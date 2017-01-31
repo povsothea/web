@@ -428,13 +428,13 @@
 		<div class="container">
 			<div class="text-center">
 				<h3>Our Team</h3>
-				<p>Lorem ipsum dolor sit amet consectetur adipisicing elit Lorem ipsum dolor sit<br>amet consectetur adipisicing elit</p>
+				<p>A perfect blend of creativity and technical wizardry. The best people formula for great websites!</p>
 			</div>
 			<div class="row">
 				<div class="col-md-4 wow fadeInUp" data-wow-offset="0" data-wow-delay="0.3s">
 					<div class="text-center">
 						<img src="{{asset('img/team/1.png')}}" alt="">
-						<h2>Pov Chanthorn</h2>
+						<h2>POV CHANTHORN</h2>
 						<h4>Web Designer</h4>
 						<p>Creating websites from a young age, Chanthorn is a Photoshop guru with an eye for innovation and pixel perfect design and He is renowned for designing imaginative web interfaces that focus on usability and effective content presentation.</p>
 					</div>
@@ -442,7 +442,7 @@
 				<div class="col-md-4 wow bounceInDown" data-wow-offset="0" data-wow-delay="0.3s">
 					<div class="text-center">
 						<img src="{{asset('img/team/2.png')}}" alt="">
-						<h2>Pov Sothea</h2>
+						<h2>POV SOTHEA</h2>
 						<h4>Founder & CEO</h4>
 						<p>Sothea plays many key roles at webkh and his responsibilities include leadership, operations, account management, business development, and strategy. Eric's broad skillset derives from over ten years of experience working with website.</p>
 					</div>
@@ -450,7 +450,7 @@
 				<div class="col-md-4 wow fadeInUp" data-wow-offset="0" data-wow-delay="0.3s">
 					<div class="text-center">
 						<img src="{{asset('img/team/3.png')}}" alt="">
-						<h2>Ma Sochea</h2>
+						<h2>POV CHANTHA</h2>
 						<h4>UI Designer & Developer</h4>
 						<p>Sochea has been working in web development for 10 years, half of that time on the webkh platform. Detail oriented, with a past in project management, He is very interested in easy and intuitive user interfaces. He also brings with his experience in content strategy, search engine optimization, and online marketing.</p>
 					</div>
@@ -465,31 +465,31 @@
 							<img src="{{asset('img/team/team1.jpg')}}" class="img-responsive" alt="">
 							<h2>PHON SOPHAL</h2>
 							<h4>Project Management & Client Support</h4>
-							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit Fusce fermen tum neque a rutrum varius</p>
+							<p> He dedicated his full time to the study of web development and soon began crafting web sites, Sophal is the creative force behind the company and is part of the highly talented and passionate team that is at your disposal</p>
 						</div>
 					</div>
 					<div class="col-md-3 wow fadeInRight" data-wow-offset="0" data-wow-delay="0.3s">
 						<div class="text-center">
 							<img src="{{asset('img/team/team2.jpg')}}" class="img-responsive" alt="">
 							<h2>POV SREY MOOM</h2>
-							<h4>MAKATING</h4>
-							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit Fusce fermen tum neque a rutrum varius</p>
+							<h4>Accounts & Office Administrator</h4>
+							<p>Srey Moom is often one the first points of contact for new clients. Her energy is a great start to everyone's Castus experience. Her duties include managing the company accounts and ensuring people are where they should be.</p>
 						</div>
 					</div>
 					<div class="col-md-3 wow fadeInLeft" data-wow-offset="0" data-wow-delay="0.3s">
 						<div class="text-center">
 							<img src="{{asset('img/team/team3.jpg')}}" class="img-responsive" alt="">
-							<h2>John Smith</h2>
-							<h4></h4>
-							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit Fusce fermen tum neque a rutrum varius</p>
+							<h2>MA SOCHEA</h2>
+							<h4>Commercial Manager</h4>
+							<p>Sochea is the first point of contact for all new enquiries. He works with potential clients to assess their requirements before using his experience along with our web site planners to deliver the blueprint to a successful website.</p>
 						</div>
 					</div>
 					<div class="col-md-3 wow fadeInLeft" data-wow-offset="0" data-wow-delay="0.3s">
 						<div class="text-center">
 							<img src="{{asset('img/team/team4.jpg')}}" class="img-responsive" alt="">
 							<h2>KEOUN KUNTHY</h2>
-							<h4>Accounts & Bookkeeping</h4>
-							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit Fusce fermen tum neque a rutrum varius</p>
+							<h4>Commercial Executive</h4>
+							<p>Kunthy supports our Priority Accounts with project management, planning, testing and communication.</p>
 						</div>
 					</div>
 				</div>
