@@ -18,3 +18,5 @@
 Route::get('/', function () {
     return view('home');
 });
+
+Route::post('mailwebkh', 'EmailController@sendMail');
